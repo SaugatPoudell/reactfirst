@@ -1,0 +1,16 @@
+.footer
+{
+    width: 100vw;
+    height: 1.5rem;
+    background-color: rgb(40, 40, 40);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-weight: 300;
+    font-size: small;
+    margin-top: auto;
+    margin-bottom: 0px;
+    position:relative;
+    left: 0;
+    bottom: 0;
+}
