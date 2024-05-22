@@ -44,6 +44,7 @@
     justify-content: center;
    width: 80vw;
    max-width: 60rem;
+   background-color: aliceblue;
 }
 
 .name, .email, .msg{
@@ -87,7 +88,6 @@
     align-items: center;
     justify-content: center;
     width: 60%;
-    background-color: aliceblue;
 }
 }
 #contact
